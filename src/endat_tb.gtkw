@@ -1,0 +1,74 @@
+[*]
+[*] GTKWave Analyzer v3.3.86 (w)1999-2017 BSI
+[*] Thu Mar 24 22:21:36 2022
+[*]
+[dumpfile] "/home/mzdev/StarkStromWorkspace/Umrichter/Endat/endat_core_starkstrom/src/endat_tb.ghw"
+[dumpfile_mtime] "Thu Mar 24 22:19:12 2022"
+[dumpfile_size] 13881687
+[savefile] "/home/mzdev/StarkStromWorkspace/Umrichter/Endat/endat_core_starkstrom/src/endat_tb.gtkw"
+[timestart] 174040000000
+[size] 1863 929
+[pos] -1 -1
+*-33.670319 49070000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] top.
+[treeopen] top.endat_tb.
+[treeopen] top.endat_tb.u_master.
+[treeopen] top.endat_tb.u_master.gen_endat.
+[treeopen] top.endat_tb.u_slave.
+[treeopen] top.endat_tb.u_slave.gen_endat.
+[sst_width] 463
+[signals_width] 206
+[sst_expanded] 1
+[sst_vpaned_height] 618
+@28
+[color] 2
+top.endat_tb.clk
+top.endat_tb.rst
+@420
+top.endat_tb.u_master.curr_state
+@28
+top.endat_tb.u_master.ma_clk_rst_val
+top.endat_tb.u_master.ma_clk_rst_en
+top.endat_tb.u_master.gate
+@22
+#{top.endat_tb.u_master.ma_fdiv[15:0]} top.endat_tb.u_master.ma_fdiv[15] top.endat_tb.u_master.ma_fdiv[14] top.endat_tb.u_master.ma_fdiv[13] top.endat_tb.u_master.ma_fdiv[12] top.endat_tb.u_master.ma_fdiv[11] top.endat_tb.u_master.ma_fdiv[10] top.endat_tb.u_master.ma_fdiv[9] top.endat_tb.u_master.ma_fdiv[8] top.endat_tb.u_master.ma_fdiv[7] top.endat_tb.u_master.ma_fdiv[6] top.endat_tb.u_master.ma_fdiv[5] top.endat_tb.u_master.ma_fdiv[4] top.endat_tb.u_master.ma_fdiv[3] top.endat_tb.u_master.ma_fdiv[2] top.endat_tb.u_master.ma_fdiv[1] top.endat_tb.u_master.ma_fdiv[0]
+#{top.endat_tb.u_master.ma_half_fdiv[15:0]} top.endat_tb.u_master.ma_half_fdiv[15] top.endat_tb.u_master.ma_half_fdiv[14] top.endat_tb.u_master.ma_half_fdiv[13] top.endat_tb.u_master.ma_half_fdiv[12] top.endat_tb.u_master.ma_half_fdiv[11] top.endat_tb.u_master.ma_half_fdiv[10] top.endat_tb.u_master.ma_half_fdiv[9] top.endat_tb.u_master.ma_half_fdiv[8] top.endat_tb.u_master.ma_half_fdiv[7] top.endat_tb.u_master.ma_half_fdiv[6] top.endat_tb.u_master.ma_half_fdiv[5] top.endat_tb.u_master.ma_half_fdiv[4] top.endat_tb.u_master.ma_half_fdiv[3] top.endat_tb.u_master.ma_half_fdiv[2] top.endat_tb.u_master.ma_half_fdiv[1] top.endat_tb.u_master.ma_half_fdiv[0]
+#{top.endat_tb.u_master.ma_half_count[15:0]} top.endat_tb.u_master.ma_half_count[15] top.endat_tb.u_master.ma_half_count[14] top.endat_tb.u_master.ma_half_count[13] top.endat_tb.u_master.ma_half_count[12] top.endat_tb.u_master.ma_half_count[11] top.endat_tb.u_master.ma_half_count[10] top.endat_tb.u_master.ma_half_count[9] top.endat_tb.u_master.ma_half_count[8] top.endat_tb.u_master.ma_half_count[7] top.endat_tb.u_master.ma_half_count[6] top.endat_tb.u_master.ma_half_count[5] top.endat_tb.u_master.ma_half_count[4] top.endat_tb.u_master.ma_half_count[3] top.endat_tb.u_master.ma_half_count[2] top.endat_tb.u_master.ma_half_count[1] top.endat_tb.u_master.ma_half_count[0]
+@28
+top.endat_tb.u_master.ma_half_match
+@22
+#{top.endat_tb.u_master.len[31:0]} top.endat_tb.u_master.len[31] top.endat_tb.u_master.len[30] top.endat_tb.u_master.len[29] top.endat_tb.u_master.len[28] top.endat_tb.u_master.len[27] top.endat_tb.u_master.len[26] top.endat_tb.u_master.len[25] top.endat_tb.u_master.len[24] top.endat_tb.u_master.len[23] top.endat_tb.u_master.len[22] top.endat_tb.u_master.len[21] top.endat_tb.u_master.len[20] top.endat_tb.u_master.len[19] top.endat_tb.u_master.len[18] top.endat_tb.u_master.len[17] top.endat_tb.u_master.len[16] top.endat_tb.u_master.len[15] top.endat_tb.u_master.len[14] top.endat_tb.u_master.len[13] top.endat_tb.u_master.len[12] top.endat_tb.u_master.len[11] top.endat_tb.u_master.len[10] top.endat_tb.u_master.len[9] top.endat_tb.u_master.len[8] top.endat_tb.u_master.len[7] top.endat_tb.u_master.len[6] top.endat_tb.u_master.len[5] top.endat_tb.u_master.len[4] top.endat_tb.u_master.len[3] top.endat_tb.u_master.len[2] top.endat_tb.u_master.len[1] top.endat_tb.u_master.len[0]
+@28
+top.endat_tb.u_master.sipo_latch
+@22
+#{top.endat_tb.u_master.sipo_val[31:0]} top.endat_tb.u_master.sipo_val[31] top.endat_tb.u_master.sipo_val[30] top.endat_tb.u_master.sipo_val[29] top.endat_tb.u_master.sipo_val[28] top.endat_tb.u_master.sipo_val[27] top.endat_tb.u_master.sipo_val[26] top.endat_tb.u_master.sipo_val[25] top.endat_tb.u_master.sipo_val[24] top.endat_tb.u_master.sipo_val[23] top.endat_tb.u_master.sipo_val[22] top.endat_tb.u_master.sipo_val[21] top.endat_tb.u_master.sipo_val[20] top.endat_tb.u_master.sipo_val[19] top.endat_tb.u_master.sipo_val[18] top.endat_tb.u_master.sipo_val[17] top.endat_tb.u_master.sipo_val[16] top.endat_tb.u_master.sipo_val[15] top.endat_tb.u_master.sipo_val[14] top.endat_tb.u_master.sipo_val[13] top.endat_tb.u_master.sipo_val[12] top.endat_tb.u_master.sipo_val[11] top.endat_tb.u_master.sipo_val[10] top.endat_tb.u_master.sipo_val[9] top.endat_tb.u_master.sipo_val[8] top.endat_tb.u_master.sipo_val[7] top.endat_tb.u_master.sipo_val[6] top.endat_tb.u_master.sipo_val[5] top.endat_tb.u_master.sipo_val[4] top.endat_tb.u_master.sipo_val[3] top.endat_tb.u_master.sipo_val[2] top.endat_tb.u_master.sipo_val[1] top.endat_tb.u_master.sipo_val[0]
+@28
+top.endat_tb.u_slave.piso_load
+@22
+#{top.endat_tb.u_master.gen_endat.master_endat.piso_val[5:0]} top.endat_tb.u_master.gen_endat.master_endat.piso_val[5] top.endat_tb.u_master.gen_endat.master_endat.piso_val[4] top.endat_tb.u_master.gen_endat.master_endat.piso_val[3] top.endat_tb.u_master.gen_endat.master_endat.piso_val[2] top.endat_tb.u_master.gen_endat.master_endat.piso_val[1] top.endat_tb.u_master.gen_endat.master_endat.piso_val[0]
+@28
+top.endat_tb.u_master.mosi
+@29
+[color] 2
+top.endat_tb.ma_clk
+@28
+top.endat_tb.u_master.miso
+top.endat_tb.u_master.count_rst
+top.endat_tb.u_master.count_match
+@22
+#{top.endat_tb.u_master.count_val[4:0]} top.endat_tb.u_master.count_val[4] top.endat_tb.u_master.count_val[3] top.endat_tb.u_master.count_val[2] top.endat_tb.u_master.count_val[1] top.endat_tb.u_master.count_val[0]
+#{top.endat_tb.u_master.count_top_latched[4:0]} top.endat_tb.u_master.count_top_latched[4] top.endat_tb.u_master.count_top_latched[3] top.endat_tb.u_master.count_top_latched[2] top.endat_tb.u_master.count_top_latched[1] top.endat_tb.u_master.count_top_latched[0]
+#{top.endat_tb.u_master.count_top[4:0]} top.endat_tb.u_master.count_top[4] top.endat_tb.u_master.count_top[3] top.endat_tb.u_master.count_top[2] top.endat_tb.u_master.count_top[1] top.endat_tb.u_master.count_top[0]
+@420
+top.endat_tb.u_master.enc_type
+@22
+[color] 3
+#{top.endat_tb.sdata[31:0]} top.endat_tb.sdata[31] top.endat_tb.sdata[30] top.endat_tb.sdata[29] top.endat_tb.sdata[28] top.endat_tb.sdata[27] top.endat_tb.sdata[26] top.endat_tb.sdata[25] top.endat_tb.sdata[24] top.endat_tb.sdata[23] top.endat_tb.sdata[22] top.endat_tb.sdata[21] top.endat_tb.sdata[20] top.endat_tb.sdata[19] top.endat_tb.sdata[18] top.endat_tb.sdata[17] top.endat_tb.sdata[16] top.endat_tb.sdata[15] top.endat_tb.sdata[14] top.endat_tb.sdata[13] top.endat_tb.sdata[12] top.endat_tb.sdata[11] top.endat_tb.sdata[10] top.endat_tb.sdata[9] top.endat_tb.sdata[8] top.endat_tb.sdata[7] top.endat_tb.sdata[6] top.endat_tb.sdata[5] top.endat_tb.sdata[4] top.endat_tb.sdata[3] top.endat_tb.sdata[2] top.endat_tb.sdata[1] top.endat_tb.sdata[0]
+[color] 7
+#{top.endat_tb.mdata[31:0]} top.endat_tb.mdata[31] top.endat_tb.mdata[30] top.endat_tb.mdata[29] top.endat_tb.mdata[28] top.endat_tb.mdata[27] top.endat_tb.mdata[26] top.endat_tb.mdata[25] top.endat_tb.mdata[24] top.endat_tb.mdata[23] top.endat_tb.mdata[22] top.endat_tb.mdata[21] top.endat_tb.mdata[20] top.endat_tb.mdata[19] top.endat_tb.mdata[18] top.endat_tb.mdata[17] top.endat_tb.mdata[16] top.endat_tb.mdata[15] top.endat_tb.mdata[14] top.endat_tb.mdata[13] top.endat_tb.mdata[12] top.endat_tb.mdata[11] top.endat_tb.mdata[10] top.endat_tb.mdata[9] top.endat_tb.mdata[8] top.endat_tb.mdata[7] top.endat_tb.mdata[6] top.endat_tb.mdata[5] top.endat_tb.mdata[4] top.endat_tb.mdata[3] top.endat_tb.mdata[2] top.endat_tb.mdata[1] top.endat_tb.mdata[0]
+@420
+[color] 4
+top.endat_tb.u_master.gen_endat.master_endat.curr_state
+top.endat_tb.u_master.gen_endat.master_endat.next_state
+[pattern_trace] 1
+[pattern_trace] 0
